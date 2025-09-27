@@ -3,7 +3,7 @@
 Members:
 --
 1. RJ Castellano
----
+-
 2. Andrei Stephen Yap
 
 ----
