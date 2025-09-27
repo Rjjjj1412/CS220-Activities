@@ -4,9 +4,9 @@ Members:
 --
 1. RJ Castellano
 ---
-2.) Andrei Stephen Yap
+2. Andrei Stephen Yap
 
 ----
 # VIDEO DEMO LINKS FOR EACH ACTIVITIES:
-  1.) Activity 1 - Sign Up Page: https://drive.google.com/file/d/13TvSDVaX2w6aW7ur5pYlutVtcfOp9exS/view?usp=drive_link
+1.) Activity 1 - Sign Up Page: https://drive.google.com/file/d/13TvSDVaX2w6aW7ur5pYlutVtcfOp9exS/view?usp=drive_link
   
