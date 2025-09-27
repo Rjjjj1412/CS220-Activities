@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yap Sign-In</string>
+    <string name="signup">Sign Up</string>
+    <string name="pick_birthdate">Pick Birthdate</string>
+    <string name="show_passwords">Show passwords</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date_ymd">%1$d-%2$s-%3$s</string>
+    <string name="other">Other</string>
+    <string name="success">Sign Up Successful</string>
+</resources>
