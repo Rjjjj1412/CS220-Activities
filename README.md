@@ -1,6 +1,7 @@
 # GROUP 7 GITHUB REPOSITORY FOR CS220(MOBILE APPLICATION 1) ACTIVITIES.
 
 Members:
+--
 1.)RJ Castellano
 --
 2.)Andrei Stephen Yap
