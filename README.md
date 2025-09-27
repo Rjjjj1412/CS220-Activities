@@ -2,8 +2,8 @@
 
 Members:
 --
--RJ Castellano
--Andrei Stephen Yap
+- RJ Castellano
+- Andrei Stephen Yap
 
 ----
 # VIDEO DEMO LINKS FOR EACH ACTIVITIES:
