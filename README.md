@@ -7,8 +7,8 @@ Members:
 
 ----
 # VIDEO DEMO LINKS FOR EACH ACTIVITIES:
-1.) Activity 1 - Sign Up Page: https://drive.google.com/file/d/13TvSDVaX2w6aW7ur5pYlutVtcfOp9exS/view?usp=drive_link
--
+1.) Activity 1 - Sign Up Page: https://drive.google.com/file/d/13TvSDVaX2w6aW7ur5pYlutVtcfOp9exS/view?usp=drive_link  
+
 2.) Activity 2 - Image Gallery Application: https://drive.google.com/file/d/17DzkrgjhvF7Wsl5In1xJ_zezWVoZPkW8/view?usp=sharing
 
   
